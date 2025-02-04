@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Soy un desarrollador frontend colombiano, con ganas de aprender, mejorar y destacar en el mundo del desarrollo. Me especializo en React, Next.js y Angular, construyendo interfaces optimizadas, accesibles y escalables.<br><br>Siempre abierto a nuevos retos y oportunidades. 🚀<br><br>📫 Contáctame: https://www.linkedin.com/in/juan-sebastian-obreg%C3%B3n-cuellar-6277a4151/
 
 
